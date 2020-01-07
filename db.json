@@ -105,5 +105,177 @@
             "description": "Informatiekosten debiteur Heineken Ne",
             "total": "199,79"
         }
+    ],
+    "deeds": [
+        {
+            "id": "D001",
+            "date": "01-07-2020",
+            "vat": "12345",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "12345"
+        },
+        {
+            "id": "D002",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D003",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D004",
+            "date": "01-18-2020",
+            "vat": "12345",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "12345"
+        },
+        {
+            "id": "D005",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D006",
+            "date": "01-18-2020",
+            "vat": "12345",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "12345"
+        },
+        {
+            "id": "D007",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D008",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D009",
+            "date": "01-18-2020",
+            "vat": "12345",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "12345"
+        },
+        {
+            "id": "D010",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D011",
+            "date": "01-18-2020",
+            "vat": "12345",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "12345"
+        },
+        {
+            "id": "D012",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D013",
+            "date": "01-18-2020",
+            "vat": "52451",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "52451"
+        },
+        {
+            "id": "D014",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D015",
+            "date": "01-18-2020",
+            "vat": "52451",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "52451"
+        },
+        {
+            "id": "D016",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D017",
+            "date": "01-18-2020",
+            "vat": "52451",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "/finqle-informatiekosten-debiteur-heineken.pdf"
+            },
+            "total": "52451"
+        }
     ]
 }
