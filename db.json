@@ -34,6 +34,76 @@
             "invoice": "Nvt",
             "description": "Informatiekosten debiteur Heineken Bra",
             "total": "199,79"
+        },
+        {
+            "id": "S006",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Huisartsprakt",
+            "total": "199,79"
+        },
+        {
+            "id": "S007",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Global Film P",
+            "total": "199,79"
+        },
+        {
+            "id": "S008",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Bro",
+            "total": "199,79"
+        },
+        {
+            "id": "S009",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Asi",
+            "total": "199,79"
+        },
+        {
+            "id": "S0010",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Ne",
+            "total": "199,79"
+        },
+        {
+            "id": "S0011",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Ne",
+            "total": "199,79"
+        },
+        {
+            "id": "S0012",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Ne",
+            "total": "199,79"
+        },
+        {
+            "id": "S0013",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Ne",
+            "total": "199,79"
+        },
+        {
+            "id": "S0014",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Ne",
+            "total": "199,79"
+        },
+        {
+            "id": "S0015",
+            "product": "Informatie kosten",
+            "invoice": "Nvt",
+            "description": "Informatiekosten debiteur Heineken Ne",
+            "total": "199,79"
         }
     ],
     "deeds": [
@@ -116,68 +186,96 @@
                 "url": "https://bit.ly/35zV2zC"
             },
             "total": "13230"
-        }
-    ],
-    "invoices": [
-        {
-            "id": "INV00001",
-            "invoice_number": "2020-0001",
-            "debtor": "Van der Veen Asbest Sanering",
-            "invoice_date": "01-10-2020",
-            "payment_date": "02-08-2020",
-            "attachments": [],
-            "payment_term": 21,
-            "days_open": 3,
-            "amount": "1203900",
-            "status": "PAID"
         },
         {
-            "id": "INV00001",
-            "invoice_number": "2020-0001",
-            "debtor": "Van der Veen Asbest Sanering",
-            "invoice_date": "01-10-2020",
-            "payment_date": "02-08-2020",
-            "attachments": [],
-            "payment_term": 21,
-            "days_open": 3,
-            "amount": "1203900",
-            "status": "PAID"
+            "id": "D009",
+            "date": "01-18-2020",
+            "vat": "12345",
+            "file": {
+                "name": "Simple template invoice",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "12345"
         },
         {
-            "id": "INV00001",
-            "invoice_number": "2020-0001",
-            "debtor": "Van der Veen Asbest Sanering",
-            "invoice_date": "01-10-2020",
-            "payment_date": "02-08-2020",
-            "attachments": [],
-            "payment_term": 21,
-            "days_open": 3,
-            "amount": "1203900",
-            "status": "PAID"
+            "id": "D010",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "13230"
         },
         {
-            "id": "INV00001",
-            "invoice_number": "2020-0001",
-            "debtor": "Van der Veen Asbest Sanering",
-            "invoice_date": "01-10-2020",
-            "payment_date": "02-08-2020",
-            "attachments": [],
-            "payment_term": 21,
-            "days_open": 3,
-            "amount": "1203900",
-            "status": "PAID"
+            "id": "D011",
+            "date": "01-18-2020",
+            "vat": "12345",
+            "file": {
+                "name": "Simple template invoice",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "12345"
         },
         {
-            "id": "INV00001",
-            "invoice_number": "2020-0001",
-            "debtor": "Van der Veen Asbest Sanering",
-            "invoice_date": "01-10-2020",
-            "payment_date": "02-08-2020",
-            "attachments": [],
-            "payment_term": 21,
-            "days_open": 3,
-            "amount": "1203900",
-            "status": "PAID"
+            "id": "D012",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D013",
+            "date": "01-18-2020",
+            "vat": "52451",
+            "file": {
+                "name": "Simple template invoice",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "52451"
+        },
+        {
+            "id": "D014",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D015",
+            "date": "01-18-2020",
+            "vat": "52451",
+            "file": {
+                "name": "Simple template invoice",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "52451"
+        },
+        {
+            "id": "D016",
+            "date": "01-18-2020",
+            "vat": "13230",
+            "file": {
+                "name": "Informatiekosten debiteur Heineken Ne",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "13230"
+        },
+        {
+            "id": "D017",
+            "date": "01-18-2020",
+            "vat": "52451",
+            "file": {
+                "name": "Simple template invoice",
+                "url": "https://bit.ly/35zV2zC"
+            },
+            "total": "52451"
         }
     ]
 }
