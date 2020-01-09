@@ -2,6 +2,7 @@
   "name": "fq-json-server",
   "version": "1.0.0",
   "description": "Simple json-base database to deploy to Heroku",
+  "homepage": "https://fq-json-server.herokuapp.com",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
