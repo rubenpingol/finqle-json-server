@@ -295,7 +295,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 900425,
             "status": "PAID"
         },
         {
@@ -333,7 +333,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 100959,
             "status": "PAID"
         },
         {
@@ -352,7 +352,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 59035,
             "status": "PAID"
         },
         {
@@ -371,7 +371,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 46294,
             "status": "PAID"
         },
         {
@@ -390,7 +390,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 78969,
             "status": "PAID"
         },
         {
@@ -409,7 +409,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 229,
             "status": "PAID"
         },
         {
@@ -428,7 +428,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 369,
             "status": "PAID"
         },
         {
@@ -447,7 +447,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 469,
             "status": "PAID"
         },
         {
@@ -466,7 +466,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 21495,
             "status": "PAID"
         },
         {
@@ -485,7 +485,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 12599,
             "status": "PAID"
         },
         {
@@ -504,7 +504,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 3690,
             "status": "PAID"
         },
         {
@@ -523,7 +523,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 99,
             "status": "PAID"
         },
         {
@@ -542,7 +542,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 19590,
             "status": "PAID"
         },
         {
@@ -561,7 +561,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 1000,
             "status": "PAID"
         },
         {
@@ -580,7 +580,7 @@
             ],
             "payment_term": 21,
             "days_open": 3,
-            "amount": "1203900",
+            "amount": 1203900,
             "status": "PAID"
         }
     ]
