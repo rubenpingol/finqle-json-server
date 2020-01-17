@@ -296,7 +296,7 @@
             "payment_term": 21,
             "days_open": 3,
             "amount": 900425,
-            "status": "PAID"
+            "status": "paid"
         },
         {
             "id": "INV00002",
@@ -315,7 +315,7 @@
             "payment_term": 30,
             "days_open": 8,
             "amount": "1203900",
-            "status": "PAID"
+            "status": "on-hold"
         },
         {
             "id": "INV00003",
@@ -334,7 +334,7 @@
             "payment_term": 60,
             "days_open": 8,
             "amount": 100959,
-            "status": "PAID"
+            "status": "paid"
         },
         {
             "id": "INV00004",
@@ -353,7 +353,7 @@
             "payment_term": 90,
             "days_open": "30-",
             "amount": 59035,
-            "status": "PAID"
+            "status": "approved"
         },
         {
             "id": "INV00005",
@@ -372,7 +372,7 @@
             "payment_term": 30,
             "days_open": 3,
             "amount": 46294,
-            "status": "PAID"
+            "status": "paid"
         },
         {
             "id": "INV00006",
@@ -391,7 +391,7 @@
             "payment_term": 60,
             "days_open": "30+",
             "amount": 78969,
-            "status": "PAID"
+            "status": "rejected"
         },
         {
             "id": "INV00007",
@@ -410,7 +410,7 @@
             "payment_term": 90,
             "days_open": 3,
             "amount": 229,
-            "status": "PAID"
+            "status": "rejected"
         },
         {
             "id": "INV00008",
@@ -429,7 +429,7 @@
             "payment_term": 90,
             "days_open": 8,
             "amount": 369,
-            "status": "PAID"
+            "status": "on-hold"
         },
         {
             "id": "INV00009",
@@ -448,7 +448,7 @@
             "payment_term": 21,
             "days_open": "30+",
             "amount": 469,
-            "status": "PAID"
+            "status": "paid"
         },
         {
             "id": "INV00010",
@@ -467,7 +467,7 @@
             "payment_term": 21,
             "days_open": "30-",
             "amount": 21495,
-            "status": "PAID"
+            "status": "rejected"
         },
         {
             "id": "INV00011",
@@ -486,7 +486,7 @@
             "payment_term": 21,
             "days_open": 8,
             "amount": 12599,
-            "status": "PAID"
+            "status": "created"
         },
         {
             "id": "INV00012",
@@ -505,7 +505,7 @@
             "payment_term": 30,
             "days_open": "30+",
             "amount": 3690,
-            "status": "PAID"
+            "status": "paid"
         },
         {
             "id": "INV00013",
@@ -524,7 +524,7 @@
             "payment_term": 21,
             "days_open": 3,
             "amount": 99,
-            "status": "PAID"
+            "status": "rejected"
         },
         {
             "id": "INV00014",
@@ -543,7 +543,7 @@
             "payment_term": 21,
             "days_open": 3,
             "amount": 19590,
-            "status": "PAID"
+            "status": "rejected"
         },
         {
             "id": "INV00015",
@@ -562,7 +562,7 @@
             "payment_term": 21,
             "days_open": 3,
             "amount": 1000,
-            "status": "PAID"
+            "status": "on-hold"
         },
         {
             "id": "INV00016",
@@ -581,7 +581,7 @@
             "payment_term": 21,
             "days_open": 3,
             "amount": 1203900,
-            "status": "PAID"
+            "status": "on-hold"
         }
     ]
 }
