@@ -312,8 +312,8 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
-            "days_open": 3,
+            "payment_term": 30,
+            "days_open": 8,
             "amount": "1203900",
             "status": "PAID"
         },
@@ -331,8 +331,8 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
-            "days_open": 3,
+            "payment_term": 60,
+            "days_open": 8,
             "amount": 100959,
             "status": "PAID"
         },
@@ -350,8 +350,8 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
-            "days_open": 3,
+            "payment_term": 90,
+            "days_open": "30-",
             "amount": 59035,
             "status": "PAID"
         },
@@ -369,7 +369,7 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
+            "payment_term": 30,
             "days_open": 3,
             "amount": 46294,
             "status": "PAID"
@@ -388,8 +388,8 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
-            "days_open": 3,
+            "payment_term": 60,
+            "days_open": "30+",
             "amount": 78969,
             "status": "PAID"
         },
@@ -407,7 +407,7 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
+            "payment_term": 90,
             "days_open": 3,
             "amount": 229,
             "status": "PAID"
@@ -426,8 +426,8 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
-            "days_open": 3,
+            "payment_term": 90,
+            "days_open": 8,
             "amount": 369,
             "status": "PAID"
         },
@@ -446,7 +446,7 @@
                 }
             ],
             "payment_term": 21,
-            "days_open": 3,
+            "days_open": "30+",
             "amount": 469,
             "status": "PAID"
         },
@@ -465,7 +465,7 @@
                 }
             ],
             "payment_term": 21,
-            "days_open": 3,
+            "days_open": "30-",
             "amount": 21495,
             "status": "PAID"
         },
@@ -484,7 +484,7 @@
                 }
             ],
             "payment_term": 21,
-            "days_open": 3,
+            "days_open": 8,
             "amount": 12599,
             "status": "PAID"
         },
@@ -502,8 +502,8 @@
                     "progress": 100
                 }
             ],
-            "payment_term": 21,
-            "days_open": 3,
+            "payment_term": 30,
+            "days_open": "30+",
             "amount": 3690,
             "status": "PAID"
         },
